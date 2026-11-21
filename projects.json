@@ -1,0 +1,525 @@
+{
+  "comment": "Catalog of the public single-file projects released by 3legsbird on the Telegram channel 'Html codes' (https://t.me/html_codee). Each entry keeps a link to the original Telegram post as its source of truth. Regenerate the site with `npm run build:site`.",
+  "channel": {
+    "name": "Html codes",
+    "url": "https://t.me/html_codee",
+    "author": "3legsbird",
+    "note": "Every project below is a self-contained single .html file: open it in a browser, no build step, no server."
+  },
+  "categories": [
+    {
+      "id": "ai",
+      "label": "AI Tools",
+      "keywords": ["ai", "ai tools", "artificial intelligence", "llm", "chatgpt", "gemini", "neural", "machine learning", "tts", "ai image"]
+    },
+    {
+      "id": "games",
+      "label": "Games",
+      "keywords": ["game", "games", "o'yin", "arcade", "racing", "drift", "chess", "runner", "gameplay"]
+    },
+    {
+      "id": "osint",
+      "label": "OSINT & Security",
+      "keywords": ["osint", "open source intelligence", "security", "breach", "leak", "investigation", "phone number", "ip address", "blacklist", "scanner"]
+    },
+    {
+      "id": "clones",
+      "label": "Clones & UI",
+      "keywords": ["clone", "clones", "browser clone", "chrome clone", "telegram clone", "instagram clone", "ui kit", "interface"]
+    },
+    {
+      "id": "utils",
+      "label": "Utilities",
+      "keywords": ["utility", "utilities", "downloader", "tempmail", "temporary email", "dictionary", "converter", "tool"]
+    },
+    {
+      "id": "templates",
+      "label": "Portfolios & Templates",
+      "keywords": ["template", "templates", "portfolio", "ecommerce", "e-commerce", "store", "landing"]
+    },
+    {
+      "id": "lab",
+      "label": "Experiments",
+      "keywords": ["experiment", "experiments", "demo", "animation", "loader", "loop", "design study"]
+    }
+  ],
+  "projects": [
+    {
+      "id": "super-intelligence",
+      "title": "Super Intelligence",
+      "file": "Super intelligence.html",
+      "size": "138.6 KB",
+      "date": "2026-10-10",
+      "post": "https://t.me/html_codee/1277",
+      "category": "ai",
+      "featured": true,
+      "live": "http://3legsbird.thsite.top/",
+      "summary": "All the popular AI platforms in one single-file web app, with chat management, HTML preview and Python execution.",
+      "features": [
+        "ChatGPT, Claude and DeepSeek in one interface",
+        "Temporary chats with no history",
+        "Export and import chat collections",
+        "Rich Markdown rendering",
+        "Preview HTML and run Python inline"
+      ],
+      "tags": ["gemini", "llm", "chat", "single-file"]
+    },
+    {
+      "id": "presentation-ai",
+      "title": "Presentation AI",
+      "file": "Presentation-AI.html",
+      "size": "83.2 KB",
+      "date": "2026-09-23",
+      "post": "https://t.me/html_codee/1272",
+      "category": "ai",
+      "featured": true,
+      "summary": "PowerPoint rebuilt as one HTML file: AI writes the slides, AI draws the pictures, and the deck exports to PPTX.",
+      "features": [
+        "6 slide layouts and 5 themes",
+        "Free AI images via Pollinations.ai — no API key",
+        "Gemini 3 Flash text generation",
+        "Presenter mode with laser pointer",
+        "PPTX export and offline use"
+      ],
+      "tags": ["gemini", "slides", "export", "single-file"]
+    },
+    {
+      "id": "telepulse-ai",
+      "title": "TelePulse AI",
+      "file": "TelePulse_AI_—_Telegram_Channel_Analytics_&_Strategy_Suite.html",
+      "size": "68.1 KB",
+      "date": "2026-09-14",
+      "post": "https://t.me/html_codee/1269",
+      "category": "ai",
+      "featured": true,
+      "summary": "Telegram channel analytics and strategy suite: point it at any public channel URL and get an audit plus a growth plan.",
+      "features": [
+        "AI audit, SWOT and content breakdown",
+        "7-day growth calendar with a monetization plan",
+        "AI post creator with live Telegram preview",
+        "Analyzes any public channel from a single URL"
+      ],
+      "tags": ["telegram", "analytics", "ai", "growth"]
+    },
+    {
+      "id": "ai-mindgrapher",
+      "title": "AI MindGrapher",
+      "file": "ai_mindgrapher.html",
+      "size": "32.8 KB",
+      "date": "2026-10-16",
+      "post": "https://t.me/html_codee/1279",
+      "category": "ai",
+      "featured": true,
+      "summary": "Turns a complex idea, study topic or research prompt into an interactive 3D/2D mind map.",
+      "features": ["Interactive 3D and 2D graph views", "Prompt-to-map generation", "Study and research oriented"],
+      "tags": ["ai", "mindmap", "3d", "learning"]
+    },
+    {
+      "id": "ai-bg-remover-offline",
+      "title": "Offline AI Background Remover",
+      "file": "AI bg revomer offline.html",
+      "size": "40.4 KB",
+      "date": "2026-08-20",
+      "post": "https://t.me/html_codee/1253",
+      "category": "ai",
+      "featured": false,
+      "summary": "AI image background remover that needs no API key and keeps working offline from the second use on.",
+      "features": ["No API key, no server", "Offline on repeat use", "Runs entirely in the browser"],
+      "tags": ["ai", "image", "offline", "privacy"]
+    },
+    {
+      "id": "ai-image-detector",
+      "title": "AI Image Detector",
+      "file": "AI image detector.html",
+      "size": "27.6 KB",
+      "date": "2026-11-05",
+      "post": "https://t.me/html_codee/1284",
+      "category": "ai",
+      "featured": false,
+      "summary": "Fully working detector that tells whether an image was generated by AI.",
+      "features": ["Drop an image, get a verdict", "API-backed classification"],
+      "tags": ["ai", "detection", "image"]
+    },
+    {
+      "id": "gemini-tts",
+      "title": "Gemini TTS",
+      "file": "Gemini TTS.html",
+      "size": "14.3 KB",
+      "date": "2026-08-11",
+      "post": "https://t.me/html_codee/1249",
+      "category": "ai",
+      "featured": false,
+      "summary": "Text-to-speech web app built on the Gemini API, packed into a single small HTML file.",
+      "tags": ["gemini", "tts", "audio", "api"]
+    },
+    {
+      "id": "hacker-ai",
+      "title": "Hacker AI",
+      "file": "Hacker AI.html",
+      "size": "single-file",
+      "date": "2026-08-29",
+      "post": "https://t.me/html_codee/1257",
+      "category": "ai",
+      "featured": false,
+      "live": "https://t.me/unversal01bot/hacker",
+      "summary": "Terminal-style AI interface with a hacker aesthetic; a live preview runs as a Telegram mini-app.",
+      "tags": ["ai", "terminal", "ui"]
+    },
+    {
+      "id": "hacker-ai-v2",
+      "title": "Hacker AI v2",
+      "file": "Hacker AI v2.html",
+      "size": "75.1 KB",
+      "date": "2026-08-31",
+      "post": "https://t.me/html_codee/1258",
+      "category": "ai",
+      "featured": false,
+      "summary": "Second, much larger build of the terminal-style AI interface.",
+      "tags": ["ai", "terminal", "ui"]
+    },
+    {
+      "id": "real-racing-3d",
+      "title": "Real Racing 3D",
+      "file": "Real racing 3d.html",
+      "size": "165.1 KB",
+      "date": "2026-10-06",
+      "post": "https://t.me/html_codee/1276",
+      "category": "games",
+      "featured": true,
+      "summary": "3D racing in one HTML file — race against AI opponents or against another player peer-to-peer.",
+      "features": ["AI opponents", "Peer-to-peer multiplayer", "Updated design and mechanics (revision of 12 Oct 2026)"],
+      "tags": ["game", "3d", "racing", "multiplayer"]
+    },
+    {
+      "id": "3d-drift-king",
+      "title": "3D Drift King",
+      "file": "3d drift king.html",
+      "size": "46 KB",
+      "date": "2026-09-29",
+      "post": "https://t.me/html_codee/1274",
+      "category": "games",
+      "featured": true,
+      "summary": "Drift, dodge, score, survive: an endless neon highway with traffic coming both ways.",
+      "features": [
+        "Endless neon highway and night city lighting",
+        "AI traffic in both directions",
+        "Drift multiplier up to ×8",
+        "Touch and keyboard controls",
+        "Dynamic engine audio, crash shake and flash",
+        "Best score saved locally"
+      ],
+      "tags": ["game", "3d", "drift", "canvas"]
+    },
+    {
+      "id": "wizard-chess-3d-lite",
+      "title": "Wizard Chess 3D Lite",
+      "file": "wizard-chess-3d-lite.html",
+      "size": "5 MB",
+      "date": "2026-11-04",
+      "post": "https://t.me/html_codee/1283",
+      "category": "games",
+      "featured": true,
+      "summary": "A 3D chess game generated with Gemini and shipped as one 5 MB HTML file, optimized for mobile.",
+      "features": ["Single self-contained file", "Mobile-optimized controls", "AI-assisted generation"],
+      "tags": ["game", "chess", "3d", "mobile", "gemini"]
+    },
+    {
+      "id": "gravity-flip",
+      "title": "Gravity Flip",
+      "file": "Gravity flip.html",
+      "size": "29.9 KB",
+      "date": "2026-08-27",
+      "post": "https://t.me/html_codee/1256",
+      "category": "games",
+      "featured": false,
+      "summary": "Arcade runner where the player flips gravity instead of jumping.",
+      "features": [
+        "Responsive Canvas rendering",
+        "Dynamic gravity flipping",
+        "Procedural Web Audio FX",
+        "Particle and haptic feedback",
+        "Local high-score tracking"
+      ],
+      "tags": ["game", "canvas", "web-audio", "arcade"]
+    },
+    {
+      "id": "neon-horizon-racer-v2",
+      "title": "Neon Horizon Racer V2",
+      "file": "Neon_Horizon_Racer_V2.html",
+      "size": "101.6 KB",
+      "date": "2026-08-18",
+      "post": "https://t.me/html_codee/1252",
+      "category": "games",
+      "featured": false,
+      "summary": "Second version of the neon-soaked endless Canvas racer.",
+      "tags": ["game", "canvas", "neon", "racing"]
+    },
+    {
+      "id": "skydreams",
+      "title": "Skydreams",
+      "file": "Skydreams.html",
+      "size": "45.4 KB",
+      "date": "2026-09-02",
+      "post": "https://t.me/html_codee/1263",
+      "category": "games",
+      "featured": false,
+      "summary": "Score-attack arcade game set in the sky — built for the 'who collects the most points' leaderboard.",
+      "tags": ["game", "arcade", "score-attack"]
+    },
+    {
+      "id": "orbitix",
+      "title": "Orbitix",
+      "file": "Orbitix game.html",
+      "size": "12.2 KB",
+      "date": "2026-08-22",
+      "post": "https://t.me/html_codee/1254",
+      "category": "games",
+      "featured": false,
+      "summary": "Small orbital arcade game, published as a beginner-friendly sample of what one HTML file can do.",
+      "tags": ["game", "beginner", "canvas"]
+    },
+    {
+      "id": "osint-suite",
+      "title": "OSINT Suite",
+      "file": "OSINT.html",
+      "size": "16 KB",
+      "date": "2026-09-12",
+      "post": "https://t.me/html_codee/1268",
+      "category": "osint",
+      "featured": true,
+      "summary": "Free OSINT lookup tool covering phone numbers, email addresses and usernames through public APIs.",
+      "features": [
+        "Phone number info",
+        "Email info across 100+ sites",
+        "Username search across 3,000+ sites",
+        "Uses free public APIs"
+      ],
+      "tags": ["osint", "lookup", "api"]
+    },
+    {
+      "id": "telegram-osint-scanner",
+      "title": "Telegram OSINT Scanner",
+      "file": "Telegram mini-app (bot preview)",
+      "size": "mini-app",
+      "date": "2026-10-25",
+      "post": "https://t.me/html_codee/1281",
+      "category": "osint",
+      "featured": false,
+      "live": "https://t.me/unversal01bot/osint",
+      "summary": "Resolve any public Telegram target in one scan; runs as a Telegram mini-app.",
+      "tags": ["osint", "telegram", "scanner"]
+    },
+    {
+      "id": "leakcheck",
+      "title": "LeakCheck",
+      "file": "leakcheck.html",
+      "size": "32.6 KB",
+      "date": "2026-09-20",
+      "post": "https://t.me/html_codee/1271",
+      "category": "osint",
+      "featured": false,
+      "summary": "Checks whether an email address shows up in known data breaches.",
+      "tags": ["security", "breach", "email"]
+    },
+    {
+      "id": "ip-osint",
+      "title": "IP OSINT",
+      "file": "IP OSINT.html",
+      "size": "28.7 KB",
+      "date": "2026-10-20",
+      "post": "https://t.me/html_codee/1280",
+      "category": "osint",
+      "featured": false,
+      "summary": "Looks up an IP address and checks whether it is blacklisted.",
+      "tags": ["osint", "ip", "blacklist"]
+    },
+    {
+      "id": "advanced-phone-osint",
+      "title": "Advanced Phone OSINT",
+      "file": "advanced phone osint.html",
+      "size": "16.5 KB",
+      "date": "2026-09-26",
+      "post": "https://t.me/html_codee/1273",
+      "category": "osint",
+      "featured": false,
+      "summary": "Deeper single-file investigation tool for phone numbers.",
+      "tags": ["osint", "phone"]
+    },
+    {
+      "id": "google-chrome-clone",
+      "title": "Google Chrome Clone",
+      "file": "GOOGLE CLONE.html",
+      "size": "112.5 KB",
+      "date": "2026-09-09",
+      "post": "https://t.me/html_codee/1266",
+      "category": "clones",
+      "featured": true,
+      "summary": "A browser clone packed into one HTML file: tabs, live search, reader mode and the Dino game.",
+      "features": [
+        "Tabs: create, close, drag and pin",
+        "Live search results from Wikipedia, DuckDuckGo and Hacker News",
+        "Reader and Incognito modes",
+        "Bookmarks, History, Settings and the Dino game",
+        "Full keyboard shortcuts (Ctrl+T, Ctrl+W, …)"
+      ],
+      "tags": ["clone", "browser", "ui", "single-file"]
+    },
+    {
+      "id": "telegram-clone",
+      "title": "Telegram Clone",
+      "file": "TELEGRAM.html",
+      "size": "106.2 KB",
+      "date": "2026-09-09",
+      "post": "https://t.me/html_codee/1265",
+      "category": "clones",
+      "featured": true,
+      "summary": "The Telegram messenger interface rebuilt as a single HTML file.",
+      "tags": ["clone", "telegram", "ui"]
+    },
+    {
+      "id": "instagram-clone",
+      "title": "Instagram Clone",
+      "file": "Instagram.html",
+      "size": "56 KB",
+      "date": "2026-08-13",
+      "post": "https://t.me/html_codee/1250",
+      "category": "clones",
+      "featured": false,
+      "summary": "Instagram-style interface in one file: feed, stories and profile UI.",
+      "tags": ["clone", "ui", "css"]
+    },
+    {
+      "id": "universal-media-downloader",
+      "title": "Universal Media Downloader",
+      "file": "Universal media downloader.html",
+      "size": "45.5 KB",
+      "date": "2026-08-25",
+      "post": "https://t.me/html_codee/1255",
+      "category": "utils",
+      "featured": false,
+      "summary": "Fully functional video and audio downloader with multi-platform social media support, built on a free API.",
+      "tags": ["downloader", "media", "api"]
+    },
+    {
+      "id": "instagram-video-downloader",
+      "title": "Instagram Video Downloader",
+      "file": "Instagram video downloader.html",
+      "size": "13.1 KB",
+      "date": "2026-08-31",
+      "post": "https://t.me/html_codee/1260",
+      "category": "utils",
+      "featured": false,
+      "summary": "Compact single-file downloader for Instagram videos.",
+      "tags": ["downloader", "instagram"]
+    },
+    {
+      "id": "tempmail",
+      "title": "TempMail",
+      "file": "tempmail.html",
+      "size": "16.4 KB",
+      "date": "2026-09-17",
+      "post": "https://t.me/html_codee/1270",
+      "category": "utils",
+      "featured": false,
+      "summary": "Temporary email inbox in one file — no API key required.",
+      "tags": ["email", "privacy", "no-key"]
+    },
+    {
+      "id": "dictionary-pro",
+      "title": "Dictionary PRO",
+      "file": "Dictionary PRO.html",
+      "size": "46.7 KB",
+      "date": "2026-11-01",
+      "post": "https://t.me/html_codee/1282",
+      "category": "utils",
+      "featured": false,
+      "summary": "A dictionary app packed with extra study functions.",
+      "tags": ["dictionary", "learning", "utility"]
+    },
+    {
+      "id": "fenix-portfolio",
+      "title": "Fenix Portfolio",
+      "file": "Fenix portfolio.html",
+      "size": "77.2 KB",
+      "date": "2026-08-08",
+      "post": "https://t.me/html_codee/1247",
+      "category": "templates",
+      "featured": false,
+      "summary": "Phoenix-themed single-file developer portfolio: layout, sections and styling in one .html.",
+      "tags": ["portfolio", "template", "css"]
+    },
+    {
+      "id": "dev-portfolio",
+      "title": "Dev Portfolio",
+      "file": "Dev portfolio.html",
+      "size": "83.5 KB",
+      "date": "2026-09-01",
+      "post": "https://t.me/html_codee/1262",
+      "category": "templates",
+      "featured": false,
+      "summary": "A large single-file developer portfolio template, ready to rename and deploy.",
+      "tags": ["portfolio", "template"]
+    },
+    {
+      "id": "premium-ecommerce-template",
+      "title": "Premium E-commerce Template",
+      "file": "premium templates.html",
+      "size": "130.1 KB",
+      "date": "2026-10-02",
+      "post": "https://t.me/html_codee/1275",
+      "category": "templates",
+      "featured": false,
+      "summary": "Single-file online store template with catalog, cart, checkout and card plus crypto payment UI.",
+      "features": ["Catalog and product views", "Cart and checkout flow", "Card + crypto (USDT/BTC/ETH) payment UI"],
+      "tags": ["template", "ecommerce", "checkout"]
+    },
+    {
+      "id": "burj-khalifa-loop",
+      "title": "Burj Khalifa Realistic Loop",
+      "file": "burj-khalifa-realistic-loop.html",
+      "size": "80.7 KB",
+      "date": "2026-11-13",
+      "post": "https://t.me/html_codee/1285",
+      "category": "lab",
+      "featured": false,
+      "summary": "A realistic animated loop scene of the Burj Khalifa rendered inside one HTML file.",
+      "tags": ["animation", "3d", "canvas"]
+    },
+    {
+      "id": "oneira",
+      "title": "Oneira",
+      "file": "Oneira .html",
+      "size": "38.2 KB",
+      "date": "2026-09-06",
+      "post": "https://t.me/html_codee/1264",
+      "category": "lab",
+      "featured": false,
+      "summary": "Design-first code experiment — 'new code, new design'.",
+      "tags": ["design", "experiment"]
+    },
+    {
+      "id": "laptop-loader",
+      "title": "Laptop Loader",
+      "file": "Laptop loader.html",
+      "size": "33 KB",
+      "date": "2026-08-15",
+      "post": "https://t.me/html_codee/1251",
+      "category": "lab",
+      "featured": false,
+      "summary": "Animated loading screen built around a CSS/JS laptop illustration.",
+      "tags": ["animation", "loader", "css"]
+    },
+    {
+      "id": "experiment-35",
+      "title": "Experiment 35",
+      "file": "35.html",
+      "size": "12.7 KB",
+      "date": "2026-08-31",
+      "post": "https://t.me/html_codee/1259",
+      "category": "lab",
+      "featured": false,
+      "summary": "A short numbered code experiment from the archive.",
+      "tags": ["experiment", "snippet"]
+    }
+  ]
+}

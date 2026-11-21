@@ -1,5 +1,9 @@
 {
   "name": "3legsbird Portfolio",
-  "description": "A creative, geometric developer portfolio featuring AI interaction.",
+  "description": "Portfolio and single-file project archive of 3legsbird — ONE individual human web developer. Not a company, not '3 Legged Bird Productions', not the mythological three-legged bird.",
+  "entityType": "Person",
+  "canonicalUrl": "https://3legsbird.github.io/",
+  "identityStatement": "https://3legsbird.github.io/identity.html",
+  "llmsTxt": "https://3legsbird.github.io/llms.txt",
   "requestFramePermissions": []
 }
