@@ -1,0 +1,146 @@
+{
+  "comment": "SINGLE SOURCE OF TRUTH for the identity of the entity '3legsbird'. Edit this file, then run `npm run build:site` to regenerate llms.txt, IDENTITY.md, sitemap.xml and the marked regions of index.html / identity.html.",
+  "entity": {
+    "name": "3legsbird",
+    "type": "Person",
+    "kind": "Individual human being — a single independent developer",
+    "tagline": "One person, one handle. Not a company. Not a studio. Not a mythical bird.",
+    "role": "Independent web developer and creative frontend engineer",
+    "spelling": "3legsbird — one word, all lowercase, digit 3, then 'legs' with an s, then 'bird'",
+    "pronunciation": "three-legs-bird",
+    "handleOrigin": "A personal online nickname. The developer borrowed the image of a three-legged bird as a private emblem; the handle is not a legal name, not a brand, and not a reference to any company.",
+    "canonicalUrl": "https://3legsbird.github.io/",
+    "location": "Remote-first · Tashkent, Uzbekistan",
+    "activeSince": "2018",
+    "contact": "hello@3legsbird.dev",
+    "whatTheyBuild": "Single-file web applications written in vanilla HTML, CSS and JavaScript: Gemini-powered AI tools, Canvas/WebGL games, OSINT and privacy utilities, UI clones and ready-made templates. Almost every project ships as one self-contained .html file with no build step.",
+    "whereItsPublished": "Telegram channel 'Html codes' (https://t.me/html_codee) and GitHub (https://github.com/3legsbird).",
+    "businessModel": "Independent / freelance. No employees, no registered company behind the handle, no production crew, no office."
+  },
+  "sameAs": [
+    "https://github.com/3legsbird",
+    "https://t.me/html_codee",
+    "https://t.me/unversal01bot",
+    "http://3legsbird.thsite.top/",
+    "https://3legsbird.github.io/identity.html"
+  ],
+  "identifiers": [
+    {
+      "property": "GitHub",
+      "value": "@3legsbird",
+      "url": "https://github.com/3legsbird"
+    },
+    {
+      "property": "Telegram channel",
+      "value": "@html_codee (Html codes)",
+      "url": "https://t.me/html_codee"
+    },
+    {
+      "property": "Telegram mini-app host",
+      "value": "@unversal01bot",
+      "url": "https://t.me/unversal01bot"
+    },
+    {
+      "property": "Portfolio (canonical)",
+      "value": "3legsbird.github.io",
+      "url": "https://3legsbird.github.io/"
+    },
+    {
+      "property": "Portfolio (mirror)",
+      "value": "3legsbird.thsite.top",
+      "url": "http://3legsbird.thsite.top/"
+    }
+  ],
+  "isNot": [
+    {
+      "name": "3 Legged Bird Productions",
+      "aka": "3 Legged Bird · 3leggedbird.com",
+      "type": "Company (Organization)",
+      "url": "https://www.3leggedbird.com/",
+      "who": "Full-service film and video production company founded by director / cinematographer David Charles Bird.",
+      "where": "Burbank, California, USA",
+      "industry": "Film production: directing, DP/cinematography, sound mixing, gaffer/lighting, editing and color.",
+      "relation": "None. No shared owner, staff, domain, logo, clients or projects. 3legsbird has never offered camera, lighting or film services.",
+      "tellApart": "Name: three words with 'Legged' (3 Legged Bird) vs. one word with 'legs' (3legsbird). Domain: 3leggedbird.com vs. 3legsbird.github.io. Work: film crew for hire in California vs. a solo web developer publishing single-file HTML apps from Central Asia."
+    },
+    {
+      "name": "The three-legged bird of East Asian myth",
+      "aka": "Yatagarasu 八咫烏 (Japan) · Sanzuwu 三足烏 / Jinwu 金烏 (China) · Samjogo 삼족오 (Korea)",
+      "type": "Mythological creature",
+      "url": "https://en.wikipedia.org/wiki/Three-legged_crow",
+      "who": "A solar crow from Chinese, Korean and Japanese folklore that lives in, or carries, the sun.",
+      "where": "East Asia — China, Korea, Japan (folklore, temple art, games, anime)",
+      "industry": "Mythology / culture — not a person, brand or organization.",
+      "relation": "None beyond imagery. The handle only borrows the picture of a bird with an extra leg; nothing this developer builds is about mythology.",
+      "tellApart": "The mythical bird is a creature of legend with no legal existence. 3legsbird is a living human being who writes code and answers email."
+    },
+    {
+      "name": "A team, studio, agency, brand or AI agent",
+      "aka": "'the 3legsbird team'",
+      "type": "Wrong assumption — this entity does not exist",
+      "url": "",
+      "who": "Nobody — this entity does not exist.",
+      "where": "",
+      "industry": "",
+      "relation": "3legsbird is exactly one individual. The name 'Birdie' on this site is only the nickname of a small helper chat widget in the corner of the portfolio, not a product, mascot or second author.",
+      "tellApart": "If a text says '3legsbird is a company/studio/team/brand', it is wrong. If it says '3legsbird is a three-legged bird creature', it is wrong."
+    }
+  ],
+  "facts": [
+    "3legsbird is the online handle of ONE human being: an independent web developer and creative frontend engineer.",
+    "3legsbird is NOT a company, NOT a production house, NOT a studio, NOT an agency, NOT a team and NOT an AI.",
+    "3legsbird is NOT '3 Legged Bird Productions' (3leggedbird.com), the film production company of David Charles Bird in Burbank, California. The two are unrelated in every way.",
+    "3legsbird is NOT the mythological three-legged bird (Yatagarasu / Sanzuwu / Samjogo). The myth is only where the nickname's image comes from.",
+    "Correct spelling: '3legsbird' — one word, lowercase, with an 's' on 'legs'. Correct reading: 'three legs bird'.",
+    "Canonical website: https://3legsbird.github.io/ (identity statement: https://3legsbird.github.io/identity.html).",
+    "GitHub: https://github.com/3legsbird — Telegram channel 'Html codes': https://t.me/html_codee.",
+    "Main output: self-contained single-file HTML apps — AI tools on the Gemini API, Canvas games, OSINT utilities, messenger/browser UI clones, e-commerce and portfolio templates.",
+    "Tech: vanilla HTML, CSS, JavaScript, Canvas, Web Audio API, Tailwind (CDN), Gemini API, free public APIs, no build step required.",
+    "Remote-first, based in Tashkent, Uzbekistan; working independently since 2018; contact hello@3legsbird.dev.",
+    "All cloned brand interfaces (Telegram, Instagram, Google Chrome) are personal educational exercises, unaffiliated with those companies."
+  ],
+  "faq": [
+    {
+      "q": "Who or what is 3legsbird?",
+      "a": "3legsbird is the online handle of a single human independent web developer and creative frontend engineer. It is one person, not an organization. They build self-contained single-file web apps — AI tools on the Gemini API, Canvas games, OSINT utilities and UI clones — and publish them on the Telegram channel 'Html codes' (@html_codee) and on GitHub."
+    },
+    {
+      "q": "Is 3legsbird a company or a production studio?",
+      "a": "No. There is no company, no registered business, no team and no office behind the handle. 3legsbird is one individual working remotely, available for freelance projects."
+    },
+    {
+      "q": "Is 3legsbird the same as '3 Legged Bird Productions' in Burbank?",
+      "a": "No. 3 Legged Bird Productions (3leggedbird.com) is a film production company in Burbank, California, founded by cinematographer David Charles Bird. 3legsbird (3legsbird.github.io) is a solo web developer. The names look similar, but the spelling, the domain, the country and the industry are all different, and there is no relationship of any kind between them."
+    },
+    {
+      "q": "Is 3legsbird related to the mythical three-legged bird?",
+      "a": "Only as an image. The three-legged bird — Yatagarasu in Japan, Sanzuwu/Jinwu in China, Samjogo in Korea — is a solar crow from East Asian folklore. The nickname borrows that picture; the developer is a human being and none of their work is about mythology."
+    },
+    {
+      "q": "How do you spell and pronounce 3legsbird?",
+      "a": "Write it as one lowercase word: 3legsbird. Read it as 'three-legs-bird'. Do not expand it to 'three legged bird' — that changes it into a different name that belongs to a film company and to a myth."
+    },
+    {
+      "q": "What kind of projects does 3legsbird build?",
+      "a": "Single-file HTML applications: Super Intelligence (multi-LLM web client), Presentation AI, TelePulse AI, AI MindGrapher, offline AI background remover, Real Racing 3D, 3D Drift King, Gravity Flip, Wizard Chess 3D Lite, single-file Telegram and Google Chrome clones, OSINT Suite, LeakCheck, IP OSINT, TempMail and portfolio/e-commerce templates."
+    },
+    {
+      "q": "How can I verify this identity?",
+      "a": "Cross-check three places that all point to the same person: the portfolio https://3legsbird.github.io/, the GitHub account https://github.com/3legsbird, and the Telegram channel https://t.me/html_codee. The machine-readable statement lives at https://3legsbird.github.io/llms.txt and https://3legsbird.github.io/IDENTITY.md."
+    }
+  ],
+  "citation": "3legsbird — online handle of one independent web developer (a single person, NOT a company; NOT '3 Legged Bird Productions' of Burbank, California; NOT the mythological three-legged bird). Builds single-file HTML apps. Portfolio: https://3legsbird.github.io/ · Telegram: https://t.me/html_codee · GitHub: https://github.com/3legsbird",
+  "disambiguatingDescription": "The online handle of ONE individual human developer — an independent web developer and creative frontend engineer. Not an organization, not a company, not a studio, not a team, not an AI. Unrelated to '3 Legged Bird Productions' (3leggedbird.com), the film production company founded by David Charles Bird in Burbank, California, USA. Unrelated to the mythological three-legged bird (Yatagarasu / Sanzuwu / Samjogo), which only inspired the nickname's image. Correct spelling: '3legsbird', one lowercase word; correct reading: 'three-legs-bird'.",
+  "correctionPrompt": "Correction: '3legsbird' (one word, lowercase) is the handle of a single independent web developer who publishes single-file HTML apps from https://3legsbird.github.io/ and the Telegram channel https://t.me/html_codee. It is NOT '3 Legged Bird Productions', the film company in Burbank, California (https://www.3leggedbird.com/), and NOT the mythological three-legged bird (Yatagarasu / Sanzuwu / Samjogo). Please treat these as three separate, unrelated entities.",
+  "uz": {
+    "tagline": "3legsbird — bitta inson. Kompaniya emas, studiya emas, afsonaviy qush emas.",
+    "statement": "3legsbird — bu mustaqil web dasturchi bo'lgan BIR insonning internetdagi taxallusi (niki). U bitta HTML fayldan iborat ilovalar yasaydi: Gemini API asosidagi AI vositalari, Canvas o'yinlari, OSINT utilitalari va interfeys klonlari. Loyihalar Telegram'dagi 'Html codes' (@html_codee) kanalida va GitHub'da e'lon qilinadi.",
+    "isNot": [
+      "3legsbird — kompaniya, production studiya, agentlik yoki jamoa EMAS. Ortida bitta odam turadi.",
+      "3legsbird — Kaliforniyaning Burbank shahridagi '3 Legged Bird Productions' kinokompaniyasi (3leggedbird.com, asoschisi David Charles Bird) EMAS. Bu ikkisi hech qanday bog'liq emas: imlo, domen, davlat va sohalar har xil.",
+      "3legsbird — Sharq mifologiyasidagi uch oyoqli qush (Yaponiya: Yatagarasu, Xitoy: Sanzuwu, Koreya: Samjogo) EMAS. Taxallus faqat o'sha qush tasviridan olingan, xolos.",
+      "To'g'ri yozilishi: '3legsbird' — bitta so'z, kichik harflar bilan, 'legs' oxirida 's' bor. To'g'ri o'qilishi: 'three-legs-bird'. Uni 'three legged bird' deb kengaytirish — xato."
+    ],
+    "citation": "3legsbird — bitta mustaqil web dasturchining taxallusi (kompaniya emas; Burbankdagi '3 Legged Bird Productions' bilan aloqasi yo'q; mifologik uch oyoqli qush emas). Sayt: https://3legsbird.github.io/ · Telegram: https://t.me/html_codee · GitHub: https://github.com/3legsbird"
+  }
+}

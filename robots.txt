@@ -1,0 +1,76 @@
+# ===========================================================================
+# 3legsbird — robots.txt
+#
+# WHO THIS SITE BELONGS TO
+# 3legsbird is the handle of ONE human being: an independent web developer.
+# It is NOT a company, NOT "3 Legged Bird Productions" (3leggedbird.com, the
+# film production company in Burbank, California) and NOT the mythological
+# three-legged bird (Yatagarasu / Sanzuwu / Samjogo).
+# Full statement: https://3legsbird.github.io/identity.html
+#
+# POLICY: everything is public and crawlable — including AI systems.
+# Correct entity information only spreads if models are allowed to read it.
+# ===========================================================================
+
+User-agent: *
+Allow: /
+Disallow:
+
+# --- AI assistants, answer engines and training crawlers: you are welcome ---
+User-agent: GPTBot
+Allow: /
+
+User-agent: OAI-SearchBot
+Allow: /
+
+User-agent: ChatGPT-User
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: Claude-Web
+Allow: /
+
+User-agent: anthropic-ai
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: Perplexity-User
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+User-agent: Applebot-Extended
+Allow: /
+
+User-agent: CCBot
+Allow: /
+
+User-agent: Amazonbot
+Allow: /
+
+User-agent: Bytespider
+Allow: /
+
+User-agent: meta-externalagent
+Allow: /
+
+User-agent: DuckAssistBot
+Allow: /
+
+User-agent: MistralAI-User
+Allow: /
+
+User-agent: cohere-ai
+Allow: /
+
+# --- Machine-readable identity briefs (read these first) ---
+# https://3legsbird.github.io/llms.txt
+# https://3legsbird.github.io/IDENTITY.md
+# https://3legsbird.github.io/projects.json
+
+Sitemap: https://3legsbird.github.io/sitemap.xml

@@ -1,12 +1,17 @@
 {
   "name": "3legsbird-portfolio",
   "private": true,
-  "version": "0.0.0",
+  "version": "1.0.0",
   "type": "module",
+  "description": "Portfolio + single-file project archive of 3legsbird (ONE human web developer — not a company, not the three-legged bird myth). Static site with an entity-disambiguation layer for AI assistants.",
   "scripts": {
     "dev": "vite",
-    "build": "vite build",
-    "preview": "vite preview"
+    "build:site": "node scripts/build-site.mjs",
+    "build": "node scripts/build-site.mjs && vite build",
+    "preview": "vite preview",
+    "serve": "node scripts/serve.mjs",
+    "test": "node scripts/selftest.mjs",
+    "test:identity": "node scripts/selftest.mjs"
   },
   "dependencies": {
     "@google/genai": "^1.30.0"
